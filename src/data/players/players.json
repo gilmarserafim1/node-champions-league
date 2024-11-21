@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Kylian Mbappé",
+    "club": "Real Madrid",
+    "nationality": "France",
+    "position": "Forward",
+    "statistics": {
+      "overall": 91,
+      "pace": 94,
+      "shooting": 87,
+      "passing": 81,
+      "dribbling": 92,
+      "defending": 40,
+      "physical": 74
+    }
+  },
+  {
+    "id": 2,
+    "name": "Erling Haaland",
+    "club": "Manchester City",
+    "nationality": "Norway",
+    "position": "Forward",
+    "statistics": {
+      "overall": 90,
+      "pace": 85,
+      "shooting": 93,
+      "passing": 74,
+      "dribbling": 77,
+      "defending": 35,
+      "physical": 90
+    }
+  },
+  {
+    "id": 3,
+    "name": "Vinícius Júnior",
+    "club": "Real Madrid",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "statistics": {
+      "overall": 88,
+      "pace": 94,
+      "shooting": 80,
+      "passing": 83,
+      "dribbling": 89,
+      "defending": 45,
+      "physical": 70
+    }
+  },
+  {
+    "id": 4,
+    "name": "Mohamed Salah",
+    "club": "Liverpool",
+    "nationality": "Egypt",
+    "position": "Forward",
+    "statistics": {
+      "overall": 89,
+      "pace": 88,
+      "shooting": 89,
+      "passing": 80,
+      "dribbling": 86,
+      "defending": 43,
+      "physical": 70
+    }
+  },
+  {
+    "id": 5,
+    "name": "Harry Kane",
+    "club": "Bayern Munich",
+    "nationality": "England",
+    "position": "Forward",
+    "statistics": {
+      "overall": 90,
+      "pace": 81,
+      "shooting": 91,
+      "passing": 83,
+      "dribbling": 75,
+      "defending": 45,
+      "physical": 85
+    }
+  },
+  {
+    "id": 6,
+    "name": "Kevin De Bruyne",
+    "club": "Manchester City",
+    "nationality": "Belgium",
+    "position": "Midfielder",
+    "statistics": {
+      "overall": 91,
+      "pace": 75,
+      "shooting": 84,
+      "passing": 94,
+      "dribbling": 85,
+      "defending": 60,
+      "physical": 70
+    }
+  },
+  {
+    "id": 7,
+    "name": "Luka Modrić",
+    "club": "Real Madrid",
+    "nationality": "Croatia",
+    "position": "Midfielder",
+    "statistics": {
+      "overall": 88,
+      "pace": 72,
+      "shooting": 79,
+      "passing": 91,
+      "dribbling": 85,
+      "defending": 70,
+      "physical": 72
+    }
+  },
+  {
+    "id": 8,
+    "name": "Joshua Kimmich",
+    "club": "Bayern Munich",
+    "nationality": "Germany",
+    "position": "Midfielder",
+    "statistics": {
+      "overall": 88,
+      "pace": 79,
+      "shooting": 80,
+      "passing": 88,
+      "dribbling": 80,
+      "defending": 83,
+      "physical": 76
+    }
+  },
+  {
+    "id": 9,
+    "name": "Lionel Messi",
+    "club": "Inter Miami",
+    "nationality": "Argentina",
+    "position": "Forward",
+    "statistics": {
+      "overall": 91,
+      "pace": 84,
+      "shooting": 90,
+      "passing": 91,
+      "dribbling": 95,
+      "defending": 45,
+      "physical": 69
+    }
+  },
+  {
+    "id": 10,
+    "name": "Thibaut Courtois",
+    "club": "Real Madrid",
+    "nationality": "Belgium",
+    "position": "Goalkeeper",
+    "statistics": {
+      "overall": 90,
+      "pace": 40,
+      "shooting": 30,
+      "passing": 55,
+      "dribbling": 50,
+      "defending": 90,
+      "physical": 85
+    }
+  },
+  {
+    "id": 11,
+    "name": "Riyad Mahrez",
+    "club": "Al-Ahli",
+    "nationality": "Algeria",
+    "position": "Forward",
+    "statistics": {
+      "overall": 86,
+      "pace": 83,
+      "shooting": 84,
+      "passing": 85,
+      "dribbling": 88,
+      "defending": 43,
+      "physical": 68
+    }
+  },
+  {
+    "id": 12,
+    "name": "Antoine Griezmann",
+    "club": "Atletico Madrid",
+    "nationality": "France",
+    "position": "Forward",
+    "statistics": {
+      "overall": 87,
+      "pace": 81,
+      "shooting": 83,
+      "passing": 85,
+      "dribbling": 80,
+      "defending": 60,
+      "physical": 73
+    }
+  },
+  {
+    "id": 13,
+    "name": "Jude Bellingham",
+    "club": "Real Madrid",
+    "nationality": "England",
+    "position": "Midfielder",
+    "statistics": {
+      "overall": 88,
+      "pace": 84,
+      "shooting": 80,
+      "passing": 85,
+      "dribbling": 85,
+      "defending": 78,
+      "physical": 82
+    }
+  },
+  {
+    "id": 14,
+    "name": "Karim Benzema",
+    "club": "Al-Ittihad",
+    "nationality": "France",
+    "position": "Forward",
+    "statistics": {
+      "overall": 89,
+      "pace": 79,
+      "shooting": 88,
+      "passing": 82,
+      "dribbling": 83,
+      "defending": 45,
+      "physical": 75
+    }
+  },
+  {
+    "id": 15,
+    "name": "Viktor Gyökeres",
+    "club": "Bayern Munich",
+    "nationality": "Sweden",
+    "position": "Forward",
+    "statistics": {
+      "overall": 85,
+      "pace": 85,
+      "shooting": 80,
+      "passing": 75,
+      "dribbling": 81,
+      "defending": 50,
+      "physical": 76
+    }
+  }
+]

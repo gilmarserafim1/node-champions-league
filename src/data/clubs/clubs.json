@@ -1,0 +1,251 @@
+[
+    {
+        "id": 1,
+        "name": "Real Madrid",
+        "country": "Spain",
+        "stadium": "Santiago Bernabéu",
+        "founded": 1902,
+        "trophies": 14
+    },
+    {
+        "id": 2,
+        "name": "Manchester City",
+        "country": "England",
+        "stadium": "Etihad Stadium",
+        "founded": 1880,
+        "trophies": 1
+    },
+    {
+        "id": 3,
+        "name": "Bayern Munich",
+        "country": "Germany",
+        "stadium": "Allianz Arena",
+        "founded": 1900,
+        "trophies": 6
+    },
+    {
+        "id": 4,
+        "name": "Paris Saint-Germain",
+        "country": "France",
+        "stadium": "Parc des Princes",
+        "founded": 1970,
+        "trophies": 0
+    },
+    {
+        "id": 5,
+        "name": "Liverpool",
+        "country": "England",
+        "stadium": "Anfield",
+        "founded": 1892,
+        "trophies": 6
+    },
+    {
+        "id": 6,
+        "name": "Inter Milan",
+        "country": "Italy",
+        "stadium": "San Siro",
+        "founded": 1908,
+        "trophies": 3
+    },
+    {
+        "id": 7,
+        "name": "Borussia Dortmund",
+        "country": "Germany",
+        "stadium": "Signal Iduna Park",
+        "founded": 1909,
+        "trophies": 1
+    },
+    {
+        "id": 8,
+        "name": "Barcelona",
+        "country": "Spain",
+        "stadium": "Camp Nou",
+        "founded": 1899,
+        "trophies": 5
+    },
+    {
+        "id": 9,
+        "name": "RB Leipzig",
+        "country": "Germany",
+        "stadium": "Red Bull Arena",
+        "founded": 2009,
+        "trophies": 0
+    },
+    {
+        "id": 10,
+        "name": "Bayer Leverkusen",
+        "country": "Germany",
+        "stadium": "BayArena",
+        "founded": 1904,
+        "trophies": 0
+    },
+    {
+        "id": 11,
+        "name": "Atalanta",
+        "country": "Italy",
+        "stadium": "Gewiss Stadium",
+        "founded": 1907,
+        "trophies": 0
+    },
+    {
+        "id": 12,
+        "name": "Atletico Madrid",
+        "country": "Spain",
+        "stadium": "Wanda Metropolitano",
+        "founded": 1903,
+        "trophies": 0
+    },
+    {
+        "id": 13,
+        "name": "Benfica",
+        "country": "Portugal",
+        "stadium": "Estádio da Luz",
+        "founded": 1904,
+        "trophies": 2
+    },
+    {
+        "id": 14,
+        "name": "Arsenal",
+        "country": "England",
+        "stadium": "Emirates Stadium",
+        "founded": 1886,
+        "trophies": 0
+    },
+    {
+        "id": 15,
+        "name": "Club Brugge",
+        "country": "Belgium",
+        "stadium": "Jan Breydel Stadium",
+        "founded": 1891,
+        "trophies": 0
+    },
+    {
+        "id": 16,
+        "name": "Shakhtar Donetsk",
+        "country": "Ukraine",
+        "stadium": "Donbass Arena",
+        "founded": 1936,
+        "trophies": 0
+    },
+    {
+        "id": 17,
+        "name": "AC Milan",
+        "country": "Italy",
+        "stadium": "San Siro",
+        "founded": 1899,
+        "trophies": 7
+    },
+    {
+        "id": 18,
+        "name": "Celtic",
+        "country": "Scotland",
+        "stadium": "Celtic Park",
+        "founded": 1888,
+        "trophies": 1
+    },
+    {
+        "id": 19,
+        "name": "Red Bull Salzburg",
+        "country": "Austria",
+        "stadium": "Red Bull Arena",
+        "founded": 1933,
+        "trophies": 0
+    },
+    {
+        "id": 20,
+        "name": "Dinamo Zagreb",
+        "country": "Croatia",
+        "stadium": "Stadion Maksimir",
+        "founded": 1945,
+        "trophies": 0
+    },
+    {
+        "id": 21,
+        "name": "Lille",
+        "country": "France",
+        "stadium": "Stade Pierre-Mauroy",
+        "founded": 1944,
+        "trophies": 0
+    },
+    {
+        "id": 22,
+        "name": "Young Boys",
+        "country": "Switzerland",
+        "stadium": "Stade de Suisse",
+        "founded": 1898,
+        "trophies": 0
+    },
+    {
+        "id": 23,
+        "name": "Monaco",
+        "country": "France",
+        "stadium": "Stade Louis II",
+        "founded": 1924,
+        "trophies": 0
+    },
+    {
+        "id": 24,
+        "name": "Sparta Prague",
+        "country": "Czech Republic",
+        "stadium": "Generali Arena",
+        "founded": 1893,
+        "trophies": 0
+    },
+    {
+        "id": 25,
+        "name": "Aston Villa",
+        "country": "England",
+        "stadium": "Villa Park",
+        "founded": 1874,
+        "trophies": 1
+    },
+    {
+        "id": 26,
+        "name": "Sturm Graz",
+        "country": "Austria",
+        "stadium": "Merkur Arena",
+        "founded": 1909,
+        "trophies": 0
+    },
+    {
+        "id": 27,
+        "name": "Bologna",
+        "country": "Italy",
+        "stadium": "Stadio Renato Dall'Ara",
+        "founded": 1909,
+        "trophies": 0
+    },
+    {
+        "id": 28,
+        "name": "Brest",
+        "country": "France",
+        "stadium": "Stade Francis-Le Blé",
+        "founded": 1950,
+        "trophies": 0
+    },
+    {
+        "id": 29,
+        "name": "Girona",
+        "country": "Spain",
+        "stadium": "Montilivi",
+        "founded": 1930,
+        "trophies": 0
+    },
+    {
+        "id": 30,
+        "name": "VfB Stuttgart",
+        "country": "Germany",
+        "stadium": "Mercedes-Benz Arena",
+        "founded": 1893,
+        "trophies": 0
+    },
+    {
+        "id": 31,
+        "name": "Slovan Bratislava",
+        "country": "Slovakia",
+        "stadium": "Tehelné pole",
+        "founded": 1921,
+        "trophies": 0
+    }
+  ]
+  

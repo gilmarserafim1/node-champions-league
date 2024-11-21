@@ -1,0 +1,6 @@
+npm init -y &&
+mkdir src &&
+touch src/server.ts &&
+npm i typescript tsx tsup -D &&
+echo "node_modules/" >> .gitignore &&
+npx tsc --init
